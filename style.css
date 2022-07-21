@@ -1,0 +1,78 @@
+img{
+  border-radius: 10%;
+}
+.menus{
+  color: black;
+}
+
+nav{
+  padding-top: 40px;
+}
+.nav li a:hover{
+background-color: white;
+text-decoration: underline;
+text-decoration-color: grey;
+}
+ 
+.barreR{
+    display: flex;
+}
+
+.thumbnail{
+  border-radius: 30px;
+}
+/* section haut rond */
+.gallery{
+  display: flex;
+  border: 1px solid blue;
+  width: 140px;
+  height: 40px;
+  float: left;
+  margin-right: -30px;
+  margin-left: 50px;
+  border-radius: 20px;
+}
+.formImage{
+  border-radius: 30px;
+  margin-left: 10px;
+}
+#montrait{
+  border: 0.25px solid rgb(211, 211, 211);
+  margin-top: 9px;
+}
+.espace{
+  margin-right: 20px;
+ 
+}
+
+a{
+  color: black;
+}
+.mem:hover{
+background-color: red;
+}
+
+/* menu hamburger */
+.burger-icon span {
+  display: block;
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+.iconVoix{
+  display: flex;
+   position: relative;
+  right: 250px;
+  top:15px;
+  
+}
+.iconVoix div{
+  margin-right: 15px;
+}
+.sligne:hover{
+  text-decoration: underline;
+}
+
+
+
